@@ -1,0 +1,10 @@
+C:\Users\afastudillos.SIESACLOUDFE\Documents\Uni\Parcial\CapaEntidad\bin\Debug\CapaEntidad.dll
+C:\Users\afastudillos.SIESACLOUDFE\Documents\Uni\Parcial\CapaEntidad\bin\Debug\CapaEntidad.pdb
+C:\Users\afastudillos.SIESACLOUDFE\Documents\Uni\Parcial\CapaEntidad\bin\Debug\Microsoft.Analytics.Interfaces.dll
+C:\Users\afastudillos.SIESACLOUDFE\Documents\Uni\Parcial\CapaEntidad\bin\Debug\Microsoft.Analytics.Interfaces.Streaming.dll
+C:\Users\afastudillos.SIESACLOUDFE\Documents\Uni\Parcial\CapaEntidad\bin\Debug\Microsoft.Analytics.Types.dll
+C:\Users\afastudillos.SIESACLOUDFE\Documents\Uni\Parcial\CapaEntidad\obj\Debug\CapaEntidad.csproj.AssemblyReference.cache
+C:\Users\afastudillos.SIESACLOUDFE\Documents\Uni\Parcial\CapaEntidad\obj\Debug\CapaEntidad.csproj.CoreCompileInputs.cache
+C:\Users\afastudillos.SIESACLOUDFE\Documents\Uni\Parcial\CapaEntidad\obj\Debug\CapaEntidad.csproj.CopyComplete
+C:\Users\afastudillos.SIESACLOUDFE\Documents\Uni\Parcial\CapaEntidad\obj\Debug\CapaEntidad.dll
+C:\Users\afastudillos.SIESACLOUDFE\Documents\Uni\Parcial\CapaEntidad\obj\Debug\CapaEntidad.pdb

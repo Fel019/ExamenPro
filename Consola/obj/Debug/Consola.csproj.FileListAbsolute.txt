@@ -1,0 +1,13 @@
+C:\Users\afastudillos.SIESACLOUDFE\Documents\Uni\Parcial\Consola\obj\Debug\Consola.csproj.AssemblyReference.cache
+C:\Users\afastudillos.SIESACLOUDFE\Documents\Uni\Parcial\Consola\obj\Debug\Consola.csproj.SuggestedBindingRedirects.cache
+C:\Users\afastudillos.SIESACLOUDFE\Documents\Uni\Parcial\Consola\obj\Debug\Consola.csproj.CoreCompileInputs.cache
+C:\Users\afastudillos.SIESACLOUDFE\Documents\Uni\Parcial\Consola\bin\Debug\Consola.exe.config
+C:\Users\afastudillos.SIESACLOUDFE\Documents\Uni\Parcial\Consola\bin\Debug\Consola.exe
+C:\Users\afastudillos.SIESACLOUDFE\Documents\Uni\Parcial\Consola\bin\Debug\Consola.pdb
+C:\Users\afastudillos.SIESACLOUDFE\Documents\Uni\Parcial\Consola\bin\Debug\CapaNegocio.dll
+C:\Users\afastudillos.SIESACLOUDFE\Documents\Uni\Parcial\Consola\bin\Debug\CapaEntidad.dll
+C:\Users\afastudillos.SIESACLOUDFE\Documents\Uni\Parcial\Consola\bin\Debug\CapaNegocio.pdb
+C:\Users\afastudillos.SIESACLOUDFE\Documents\Uni\Parcial\Consola\bin\Debug\CapaEntidad.pdb
+C:\Users\afastudillos.SIESACLOUDFE\Documents\Uni\Parcial\Consola\obj\Debug\Consola.csproj.CopyComplete
+C:\Users\afastudillos.SIESACLOUDFE\Documents\Uni\Parcial\Consola\obj\Debug\Consola.exe
+C:\Users\afastudillos.SIESACLOUDFE\Documents\Uni\Parcial\Consola\obj\Debug\Consola.pdb
