@@ -1,0 +1,1 @@
+Este es la 2da parte del parcial de Programación 1, este programa esta diseñado en C# en .net framework 4.8, tambien diseñado en mvc, por tanto tiene dll las cuales al compilar el proyecto deben estar bien referenciadas.
